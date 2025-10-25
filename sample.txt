@@ -1,0 +1,3 @@
+# Demo Project Sample File
+This file is part of the demo project.
+It demonstrates how Git tracks changes in files.
